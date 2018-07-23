@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 256,
+      "ypos": 170,
+      "width": 43,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "lets_fail_here"
+  ]
+}
